@@ -32,3 +32,6 @@ fp-info-cache
 
 # Documentation artifacts
 build 
+
+# Some Altium for import
+*/History/*.*
