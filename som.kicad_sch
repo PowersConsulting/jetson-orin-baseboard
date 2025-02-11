@@ -32855,28 +32855,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 294.005 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 294.005 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 293.37 198.12 0)
 			(effects
@@ -32896,6 +32874,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 283.21 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 283.21 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -32931,7 +32927,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 215.9 196.85 0)
 			(effects
 				(font
@@ -32973,26 +32969,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 215.9 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 258.445 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 215.9 209.55 0)
 			(effects
@@ -33012,6 +32988,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 278.13 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 278.13 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 278.13 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 278.13 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33829,7 +33841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Pol_100u_25V_KEMET-T521-D-107"
+		(property "Value" "T521D107M025ATE040"
 			(at 44.45 124.46 0)
 			(effects
 				(font
@@ -33881,28 +33893,6 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "T521D107M025ATE040"
-			(at 34.29 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "KEMET"
-			(at 31.75 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 29.21 124.46 0)
 			(effects
@@ -33942,6 +33932,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 46.99 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_Pol_100u_25V_KEMET-T521-D-107"
+			(at 46.99 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "KEMET"
+			(at 46.99 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "T521D107M025ATE040"
+			(at 46.99 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -34115,28 +34141,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 304.165 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 304.165 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 303.53 118.11 0)
 			(effects
@@ -34156,6 +34160,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 293.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 293.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -34190,7 +34212,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_KMR211NGLFS_SMD"
+		(property "Value" "KMR211NGLFS"
 			(at 105.41 190.5 0)
 			(effects
 				(font
@@ -34232,27 +34254,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "KMR211NGLFS"
-			(at 116.84 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "C&K"
-			(at 97.79 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 95.25 190.5 0)
 			(effects
@@ -34272,6 +34273,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SW_KMR211NGLFS_SMD"
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "C&K"
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "KMR211NGLFS"
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -34314,7 +34351,7 @@
 				)
 			)
 		)
-		(property "Value" "Jetson-Orin-NX-Nano"
+		(property "Value" "900-13767-0000-000"
 			(at 227.33 274.32 0)
 			(effects
 				(font
@@ -34356,26 +34393,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Nvidia"
-			(at 227.33 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "900-13767-0000-000"
-			(at 207.01 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 227.33 287.02 0)
 			(effects
@@ -34407,6 +34424,42 @@
 				(justify left bottom)
 			)
 		)
+		(property "DNP" ""
+			(at 201.93 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Jetson-Orin-NX-Nano"
+			(at 201.93 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Nvidia"
+			(at 201.93 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "900-13767-0000-000"
+			(at 201.93 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "jetson-orin-baseboard"
 				(path "/4b393452-b11e-416e-bc83-918ae3cab2f1/68b67bb9-703f-4397-bb09-4d44d3a917ad"
@@ -34436,7 +34489,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Battery_Holder_MS621FE-FL11E"
+		(property "Value" "MS621FE-FL11E"
 			(at 59.69 161.29 0)
 			(effects
 				(font
@@ -34478,27 +34531,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Seiko Instruments"
-			(at 59.69 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "MS621FE-FL11E"
-			(at 38.1 159.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 59.69 171.45 0)
 			(effects
@@ -34518,6 +34550,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 41.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Battery_Holder_MS621FE-FL11E"
+			(at 41.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Seiko Instruments"
+			(at 41.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "MS621FE-FL11E"
+			(at 41.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -34556,7 +34624,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 214.63 45.72 0)
 			(effects
 				(font
@@ -34598,26 +34666,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 214.63 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 257.175 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 214.63 58.42 0)
 			(effects
@@ -34637,6 +34685,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -35455,7 +35539,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 303.53 45.72 0)
 			(effects
 				(font
@@ -35497,26 +35581,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 303.53 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 346.075 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 303.53 58.42 0)
 			(effects
@@ -35536,6 +35600,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 365.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 365.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 365.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 365.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -36354,7 +36454,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 81.28 222.25 0)
 			(effects
 				(font
@@ -36393,28 +36493,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 71.12 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 73.66 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -36470,6 +36548,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 91.44 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 91.44 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 91.44 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 91.44 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae24e19c-3675-4121-8b1b-6a03b12e0d60")
 		)
@@ -36505,7 +36619,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 304.8 220.98 0)
 			(effects
 				(font
@@ -36547,26 +36661,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 304.8 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 347.345 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 304.8 233.68 0)
 			(effects
@@ -36586,6 +36680,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 367.03 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 367.03 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 367.03 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 367.03 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37445,28 +37575,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 304.165 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 304.165 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 303.53 123.19 0)
 			(effects
@@ -37486,6 +37594,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 293.37 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 293.37 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37613,7 +37739,7 @@
 				)
 			)
 		)
-		(property "Value" "FB_10Z_10A_WE-MPSB_1206"
+		(property "Value" "74279221100"
 			(at 45.72 111.76 0)
 			(effects
 				(font
@@ -37655,28 +37781,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "74279221100"
-			(at 45.72 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 45.72 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 45.72 127 0)
 			(effects
@@ -37715,6 +37819,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "FB_10Z_10A_WE-MPSB_1206"
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "74279221100"
+			(at 31.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37940,7 +38080,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 95.25 76.2 0)
 			(effects
 				(font
@@ -37979,28 +38119,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 95.25 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 95.25 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -38054,6 +38172,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 74.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 74.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 74.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 74.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38131,26 +38285,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RB521S30T1G"
-			(at 29.21 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 8.89 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 8.89 125.73 0)
 			(effects
@@ -38170,6 +38304,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "RB521S30T1G"
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "RB521S30T1G"
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38208,7 +38378,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 50.8 222.25 0)
 			(effects
 				(font
@@ -38247,28 +38417,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 40.64 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 43.18 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -38321,6 +38469,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 60.96 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 60.96 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 60.96 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 60.96 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38547,7 +38731,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+		(property "Value" "9774065151R"
 			(at 167.64 276.86 0)
 			(effects
 				(font
@@ -38589,27 +38773,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 167.64 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "9774065151R"
-			(at 161.29 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 167.64 287.02 0)
 			(effects
@@ -38629,6 +38792,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 152.4 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+			(at 152.4 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 152.4 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "9774065151R"
+			(at 152.4 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38758,7 +38957,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 2.54 36.83 0)
 			(effects
 				(font
@@ -38800,26 +38999,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 2.54 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 45.085 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 2.54 49.53 0)
 			(effects
@@ -38839,6 +39018,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 64.77 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 64.77 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 64.77 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 64.77 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -39750,7 +39965,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 127 194.31 0)
 			(effects
 				(font
@@ -39792,26 +40007,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 127 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 169.545 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 127 207.01 0)
 			(effects
@@ -39831,6 +40026,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 189.23 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 189.23 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 189.23 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 189.23 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -40648,7 +40879,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 95.25 69.85 0)
 			(effects
 				(font
@@ -40687,28 +40918,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 95.25 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 95.25 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -40765,6 +40974,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 74.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 74.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 74.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 74.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c9bf5d99-a074-4e5c-b656-396c68e5de63")
 		)
@@ -40799,7 +41044,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 95.25 44.45 0)
 			(effects
 				(font
@@ -40838,28 +41083,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 95.25 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 95.25 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -40913,6 +41136,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 74.93 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 74.93 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 74.93 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 74.93 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -40992,28 +41251,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 128.905 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 128.905 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 128.27 165.1 0)
 			(effects
@@ -41033,6 +41270,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 118.11 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 118.11 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -41066,7 +41321,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 302.26 129.54 0)
 			(effects
 				(font
@@ -41105,28 +41360,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 302.26 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 302.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41180,6 +41413,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 281.94 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 281.94 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 281.94 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 281.94 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -41405,7 +41674,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_2k2_0402"
+		(property "Value" "CR0402-FX-2201GLF"
 			(at 54.61 132.08 0)
 			(effects
 				(font
@@ -41444,28 +41713,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 64.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2201GLF"
-			(at 62.23 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41511,6 +41758,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 41.91 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_2k2_0402"
+			(at 41.91 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 41.91 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2201GLF"
+			(at 41.91 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b8f972e-5ba8-41ca-b40e-3c75dca09ad5")
 		)
@@ -41545,7 +41828,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 95.25 67.31 0)
 			(effects
 				(font
@@ -41584,28 +41867,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 95.25 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 95.25 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41662,6 +41923,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 74.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 74.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 74.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 74.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a61db511-f7da-48e0-9dad-b5aae457416c")
 		)
@@ -41695,7 +41992,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 128.27 26.67 0)
 			(effects
 				(font
@@ -41734,28 +42031,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 138.43 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 135.89 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41801,6 +42076,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 115.57 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 115.57 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 115.57 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 115.57 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc06825f-626c-41f9-bb72-6db9748030fe")
 		)
@@ -41834,7 +42145,7 @@
 				)
 			)
 		)
-		(property "Value" "NTS0102_XSON"
+		(property "Value" "NTS0102GT"
 			(at 101.6 257.81 0)
 			(effects
 				(font
@@ -41876,26 +42187,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NTS0102GT"
-			(at 76.2 245.745 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "NXP"
-			(at 101.6 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 101.6 267.97 0)
 			(effects
@@ -41915,6 +42206,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 66.04 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "NTS0102_XSON"
+			(at 66.04 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "NXP"
+			(at 66.04 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "NTS0102GT"
+			(at 66.04 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -41969,7 +42296,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TPD1E0B04_XDFN-2"
+		(property "Value" "TPD1E0B04DPYR"
 			(at 115.57 157.48 0)
 			(effects
 				(font
@@ -42011,27 +42338,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 118.11 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TPD1E0B04DPYR"
-			(at 103.505 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 120.65 157.48 0)
 			(effects
@@ -42051,6 +42357,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 105.41 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TPD1E0B04_XDFN-2"
+			(at 105.41 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments"
+			(at 105.41 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "TPD1E0B04DPYR"
+			(at 105.41 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42130,28 +42472,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 128.905 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 128.905 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 128.27 162.56 0)
 			(effects
@@ -42171,6 +42491,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 118.11 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 118.11 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42395,7 +42733,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 95.25 73.66 0)
 			(effects
 				(font
@@ -42434,28 +42772,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 95.25 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 95.25 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -42512,6 +42828,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 74.93 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 74.93 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 74.93 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 74.93 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97222d29-d287-4957-978a-550b00c54af1")
 		)
@@ -42546,7 +42898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Pol_100u_25V_KEMET-T521-D-107"
+		(property "Value" "T521D107M025ATE040"
 			(at 35.56 124.46 0)
 			(effects
 				(font
@@ -42598,28 +42950,6 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "T521D107M025ATE040"
-			(at 25.4 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "KEMET"
-			(at 22.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 20.32 124.46 0)
 			(effects
@@ -42662,6 +42992,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 38.1 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_Pol_100u_25V_KEMET-T521-D-107"
+			(at 38.1 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "KEMET"
+			(at 38.1 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "T521D107M025ATE040"
+			(at 38.1 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9080cfef-9158-42c3-83bd-dc74b3172019")
 		)
@@ -42697,7 +43063,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+		(property "Value" "9774065151R"
 			(at 167.64 283.21 0)
 			(effects
 				(font
@@ -42739,27 +43105,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 167.64 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "9774065151R"
-			(at 161.29 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 167.64 293.37 0)
 			(effects
@@ -42779,6 +43124,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 152.4 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+			(at 152.4 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 152.4 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "9774065151R"
+			(at 152.4 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42814,7 +43195,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 130.81 46.99 0)
 			(effects
 				(font
@@ -42856,26 +43237,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 130.81 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 173.355 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 130.81 59.69 0)
 			(effects
@@ -42895,6 +43256,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 193.04 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 193.04 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 193.04 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 193.04 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43806,7 +44203,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 302.26 124.46 0)
 			(effects
 				(font
@@ -43845,28 +44242,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 302.26 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 302.26 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -43920,6 +44295,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 281.94 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 281.94 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 281.94 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 281.94 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43999,28 +44410,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 116.205 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 116.205 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 115.57 168.91 0)
 			(effects
@@ -44040,6 +44429,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 105.41 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 105.41 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -44074,7 +44481,7 @@
 				)
 			)
 		)
-		(property "Value" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+		(property "Value" "2309413-1"
 			(at 118.11 143.51 0)
 			(effects
 				(font
@@ -44116,26 +44523,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity"
-			(at 118.11 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2309413-1"
-			(at 80.01 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 118.11 156.21 0)
 			(effects
@@ -44155,6 +44542,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 55.88 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Bus_DDR4_SODIMM_CUSTOM_Jetson-Orin-H9.2mm-socket"
+			(at 55.88 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TE Connectivity"
+			(at 55.88 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "2309413-1"
+			(at 55.88 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

@@ -17192,7 +17192,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 245.11 232.41 0)
 			(effects
 				(font
@@ -17231,28 +17231,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 255.27 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 252.73 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -17295,6 +17273,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 232.41 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 232.41 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 232.41 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 232.41 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -17465,26 +17479,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 97.79 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PI4MSD5V9548AZDEX"
-			(at 72.39 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 97.79 66.04 0)
 			(effects
@@ -17504,6 +17498,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 62.23 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "PI4MSD5V9548AZDEX"
+			(at 62.23 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 62.23 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PI4MSD5V9548AZDEX"
+			(at 62.23 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -17702,7 +17732,7 @@
 				)
 			)
 		)
-		(property "Value" "R_4x0R_0201_array"
+		(property "Value" "EXB-18VR000X"
 			(at 184.15 114.3 0)
 			(effects
 				(font
@@ -17744,28 +17774,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18VR000X"
-			(at 184.15 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 184.15 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x0R_0201"
 			(at 162.56 111.125 0)
 			(effects
@@ -17794,6 +17802,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 157.48 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x0R_0201_array"
+			(at 157.48 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 157.48 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18VR000X"
+			(at 157.48 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -17848,7 +17892,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 135.89 232.41 0)
 			(effects
 				(font
@@ -17887,28 +17931,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 146.05 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 143.51 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -17954,6 +17976,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 123.19 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 123.19 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 123.19 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 123.19 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "679b988d-a0b2-44a3-a6db-08c324b603d2")
 		)
@@ -17987,7 +18045,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 48.26 115.57 0)
 			(effects
 				(font
@@ -18026,28 +18084,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 58.42 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 55.88 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -18101,6 +18137,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 35.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 35.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 35.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 35.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18179,28 +18251,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 102.87 0)
 			(effects
@@ -18220,6 +18270,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18254,7 +18322,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_FFC_WE_68715014522"
+		(property "Value" "68715014522"
 			(at 383.54 40.64 0)
 			(effects
 				(font
@@ -18296,27 +18364,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "68715014522"
-			(at 373.38 99.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 383.54 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 383.54 53.34 0)
 			(effects
@@ -18336,6 +18383,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 364.49 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Conn_FFC_WE_68715014522"
+			(at 364.49 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 364.49 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "68715014522"
+			(at 364.49 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18523,7 +18606,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
+		(property "Value" "LTST-C190GKT"
 			(at 259.08 144.78 0)
 			(effects
 				(font
@@ -18565,28 +18648,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190GKT"
-			(at 266.7 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 269.24 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 271.78 144.78 0)
 			(effects
@@ -18616,6 +18677,42 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "DNP" ""
+			(at 251.46 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LED_G_0603_LTST-C190GKT"
+			(at 251.46 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Lite-On"
+			(at 251.46 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "LTST-C190GKT"
+			(at 251.46 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -18693,28 +18790,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 87.63 0)
 			(effects
@@ -18734,6 +18809,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18767,7 +18860,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 77.47 115.57 0)
 			(effects
 				(font
@@ -18806,28 +18899,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 87.63 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 85.09 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -18884,6 +18955,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 64.77 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 64.77 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 64.77 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 64.77 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df539d84-8f0c-490f-a5d4-3e75c4cc9a0a")
 		)
@@ -18918,7 +19025,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 59.69 30.48 0)
 			(effects
 				(font
@@ -18957,28 +19064,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 69.85 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 67.31 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -19034,6 +19119,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2354c0ae-c3f5-4d91-af1d-0429753dd517")
 		)
@@ -19068,7 +19189,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 20.32 76.2 0)
 			(effects
 				(font
@@ -19107,28 +19228,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 20.32 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 20.32 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -19182,6 +19281,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19353,28 +19488,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 113.03 0)
 			(effects
@@ -19394,6 +19507,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19426,7 +19557,7 @@
 				)
 			)
 		)
-		(property "Value" "AP22615A_TSOT26"
+		(property "Value" "AP22615AWU-7"
 			(at 232.41 215.9 0)
 			(effects
 				(font
@@ -19468,26 +19599,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AP22615AWU-7"
-			(at 209.55 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 232.41 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 232.41 228.6 0)
 			(effects
@@ -19507,6 +19618,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 201.93 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "AP22615A_TSOT26"
+			(at 201.93 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 201.93 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "AP22615AWU-7"
+			(at 201.93 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19648,7 +19795,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 78.74 187.96 0)
 			(effects
 				(font
@@ -19687,28 +19834,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 88.9 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 86.36 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -19751,6 +19876,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 66.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 66.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 66.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 66.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20068,7 +20229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 354.33 140.97 0)
 			(effects
 				(font
@@ -20107,28 +20268,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 364.49 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 361.95 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -20181,6 +20320,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 344.17 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 344.17 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 344.17 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 344.17 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20537,28 +20712,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 90.17 0)
 			(effects
@@ -20578,6 +20731,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20612,7 +20783,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 276.86 140.97 0)
 			(effects
 				(font
@@ -20651,28 +20822,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 287.02 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 284.48 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -20725,6 +20874,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 266.7 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 266.7 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 266.7 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 266.7 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20853,7 +21038,7 @@
 				)
 			)
 		)
-		(property "Value" "AP22615A_TSOT26"
+		(property "Value" "AP22615AWU-7"
 			(at 123.19 215.9 0)
 			(effects
 				(font
@@ -20895,26 +21080,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AP22615AWU-7"
-			(at 100.33 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 123.19 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 123.19 228.6 0)
 			(effects
@@ -20934,6 +21099,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 92.71 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "AP22615A_TSOT26"
+			(at 92.71 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 92.71 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "AP22615AWU-7"
+			(at 92.71 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -21261,7 +21462,7 @@
 				)
 			)
 		)
-		(property "Value" "AP22615A_TSOT26"
+		(property "Value" "AP22615AWU-7"
 			(at 123.19 248.92 0)
 			(effects
 				(font
@@ -21303,26 +21504,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AP22615AWU-7"
-			(at 100.33 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 123.19 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 123.19 261.62 0)
 			(effects
@@ -21342,6 +21523,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 92.71 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "AP22615A_TSOT26"
+			(at 92.71 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 92.71 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "AP22615AWU-7"
+			(at 92.71 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -21483,7 +21700,7 @@
 				)
 			)
 		)
-		(property "Value" "R_4x0R_0201_array"
+		(property "Value" "EXB-18VR000X"
 			(at 184.15 39.37 0)
 			(effects
 				(font
@@ -21525,28 +21742,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18VR000X"
-			(at 184.15 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 184.15 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x0R_0201"
 			(at 162.56 36.195 0)
 			(effects
@@ -21575,6 +21770,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x0R_0201_array"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18VR000X"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -21630,7 +21861,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 323.85 182.88 0)
 			(effects
 				(font
@@ -21669,28 +21900,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 313.69 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 316.23 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -21746,6 +21955,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 334.01 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 334.01 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 334.01 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 334.01 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c74d5642-da24-4c73-b55a-3d51919ae4de")
 		)
@@ -21780,7 +22025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 361.95 213.36 0)
 			(effects
 				(font
@@ -21819,28 +22064,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 351.79 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 354.33 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -21893,6 +22116,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 372.11 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 372.11 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 372.11 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 372.11 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -22023,7 +22282,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 86.36 255.27 0)
 			(effects
 				(font
@@ -22062,28 +22321,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 96.52 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 93.98 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -22139,6 +22376,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 76.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 76.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 76.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 76.2 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e3d3709-d3f8-4539-96ab-8575af231833")
 		)
@@ -22172,7 +22445,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 85.09 115.57 0)
 			(effects
 				(font
@@ -22211,28 +22484,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 95.25 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 92.71 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -22286,6 +22537,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 72.39 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 72.39 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 72.39 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 72.39 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -22508,7 +22795,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 73.66 223.52 0)
 			(effects
 				(font
@@ -22547,28 +22834,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 63.5 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 66.04 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -22611,6 +22876,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 86.36 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 86.36 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 86.36 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 86.36 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -22834,7 +23135,7 @@
 				)
 			)
 		)
-		(property "Value" "R_4x0R_0201_array"
+		(property "Value" "EXB-18VR000X"
 			(at 184.15 93.98 0)
 			(effects
 				(font
@@ -22876,28 +23177,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18VR000X"
-			(at 184.15 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 184.15 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x0R_0201"
 			(at 162.56 90.805 0)
 			(effects
@@ -22926,6 +23205,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 157.48 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x0R_0201_array"
+			(at 157.48 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 157.48 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18VR000X"
+			(at 157.48 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -22981,7 +23296,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 359.41 140.97 0)
 			(effects
 				(font
@@ -23020,28 +23335,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 369.57 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 367.03 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -23097,6 +23390,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 349.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 349.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 349.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 349.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8f1b0d3-8780-4fba-8078-337a67fff580")
 		)
@@ -23131,7 +23460,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 361.95 182.88 0)
 			(effects
 				(font
@@ -23170,28 +23499,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 351.79 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 354.33 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -23244,6 +23551,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 372.11 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 372.11 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 372.11 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 372.11 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -23468,7 +23811,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
+		(property "Value" "LTST-C190GKT"
 			(at 336.55 144.78 0)
 			(effects
 				(font
@@ -23510,28 +23853,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190GKT"
-			(at 344.17 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 346.71 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 349.25 144.78 0)
 			(effects
@@ -23561,6 +23882,42 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "DNP" ""
+			(at 328.93 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LED_G_0603_LTST-C190GKT"
+			(at 328.93 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Lite-On"
+			(at 328.93 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "LTST-C190GKT"
+			(at 328.93 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23783,7 +24140,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 48.26 62.23 0)
 			(effects
 				(font
@@ -23822,28 +24179,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 58.42 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 55.88 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -23900,6 +24235,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 35.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 35.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 35.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 35.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "435e1a73-8bd7-4bb0-a1a4-078f606a0456")
 		)
@@ -23934,7 +24305,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4x2k2_0201_array"
+		(property "Value" "EXB-18V222JX"
 			(at 49.53 124.46 0)
 			(effects
 				(font
@@ -23976,28 +24347,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18V222JX"
-			(at 59.69 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 62.23 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x2k2_0201"
 			(at 52.07 147.32 90)
 			(effects
@@ -24027,6 +24376,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 41.91 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x2k2_0201_array"
+			(at 41.91 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 41.91 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18V222JX"
+			(at 41.91 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -24122,28 +24507,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 110.49 0)
 			(effects
@@ -24163,6 +24526,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -24290,7 +24671,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_470R_0402"
+		(property "Value" "CR0402-FX-4700GLF"
 			(at 341.63 140.97 0)
 			(effects
 				(font
@@ -24329,28 +24710,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 351.79 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4700GLF"
-			(at 349.25 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -24393,6 +24752,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 328.93 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_470R_0402"
+			(at 328.93 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 328.93 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4700GLF"
+			(at 328.93 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -24523,7 +24918,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 195.58 223.52 0)
 			(effects
 				(font
@@ -24562,28 +24957,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 205.74 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 203.2 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -24639,6 +25012,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 185.42 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 185.42 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 185.42 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 185.42 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27834c37-ff1c-43f9-9313-40189f2e8417")
 		)
@@ -24673,7 +25082,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_470R_0402"
+		(property "Value" "CR0402-FX-4700GLF"
 			(at 264.16 140.97 0)
 			(effects
 				(font
@@ -24712,28 +25121,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 274.32 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4700GLF"
-			(at 271.78 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -24779,6 +25166,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 251.46 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_470R_0402"
+			(at 251.46 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 251.46 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4700GLF"
+			(at 251.46 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "326a6d01-7c40-4be0-b034-fdeacd552086")
 		)
@@ -24813,7 +25236,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
+		(property "Value" "LTST-C190GKT"
 			(at 331.47 144.78 0)
 			(effects
 				(font
@@ -24855,28 +25278,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190GKT"
-			(at 339.09 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 341.63 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 344.17 144.78 0)
 			(effects
@@ -24906,6 +25307,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "DNP" ""
+			(at 323.85 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LED_G_0603_LTST-C190GKT"
+			(at 323.85 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Lite-On"
+			(at 323.85 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "LTST-C190GKT"
+			(at 323.85 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24941,7 +25378,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 187.96 187.96 0)
 			(effects
 				(font
@@ -24980,28 +25417,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 198.12 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 195.58 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -25044,6 +25459,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 175.26 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 175.26 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 175.26 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 175.26 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25173,7 +25624,7 @@
 				)
 			)
 		)
-		(property "Value" "AP22615A_TSOT26"
+		(property "Value" "AP22615AWU-7"
 			(at 232.41 248.92 0)
 			(effects
 				(font
@@ -25215,26 +25666,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AP22615AWU-7"
-			(at 209.55 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 232.41 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 232.41 261.62 0)
 			(effects
@@ -25254,6 +25685,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 201.93 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "AP22615A_TSOT26"
+			(at 201.93 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 201.93 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "AP22615AWU-7"
+			(at 201.93 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25395,7 +25862,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_100k_0402"
+		(property "Value" "CR0402-FX-1003GLF"
 			(at 187.96 234.95 0)
 			(effects
 				(font
@@ -25434,28 +25901,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 198.12 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1003GLF"
-			(at 195.58 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -25498,6 +25943,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 175.26 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_100k_0402"
+			(at 175.26 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 175.26 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1003GLF"
+			(at 175.26 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25855,28 +26336,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 105.41 0)
 			(effects
@@ -25896,6 +26355,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25929,7 +26406,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 135.89 199.39 0)
 			(effects
 				(font
@@ -25968,28 +26445,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 146.05 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 143.51 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -26035,6 +26490,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 123.19 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 123.19 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 123.19 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 123.19 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fefdd2a2-ad31-44e5-9342-d0c1d02154f9")
 		)
@@ -26068,7 +26559,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 31.75 97.79 0)
 			(effects
 				(font
@@ -26107,28 +26598,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 21.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 24.13 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -26174,6 +26643,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 44.45 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 44.45 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 44.45 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 44.45 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c78d3626-f560-42f5-8f02-4f98761006bd")
 		)
@@ -26207,7 +26712,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 20.32 48.26 0)
 			(effects
 				(font
@@ -26246,28 +26751,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 20.32 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 20.32 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -26321,6 +26804,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 40.64 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 40.64 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 40.64 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 40.64 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26450,7 +26969,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_100k_0402"
+		(property "Value" "CR0402-FX-1003GLF"
 			(at 78.74 234.95 0)
 			(effects
 				(font
@@ -26489,28 +27008,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 88.9 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1003GLF"
-			(at 86.36 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -26553,6 +27050,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_100k_0402"
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1003GLF"
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26871,7 +27404,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 195.58 255.27 0)
 			(effects
 				(font
@@ -26910,28 +27443,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 205.74 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 203.2 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -26987,6 +27498,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 185.42 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 185.42 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 185.42 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 185.42 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48a91d8e-c7b3-4462-bf4a-23a7d1757a44")
 		)
@@ -27021,7 +27568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
+		(property "Value" "LTST-C190GKT"
 			(at 254 144.78 0)
 			(effects
 				(font
@@ -27063,28 +27610,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190GKT"
-			(at 261.62 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 264.16 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 266.7 144.78 0)
 			(effects
@@ -27114,6 +27639,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "DNP" ""
+			(at 246.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LED_G_0603_LTST-C190GKT"
+			(at 246.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Lite-On"
+			(at 246.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "LTST-C190GKT"
+			(at 246.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27335,7 +27896,7 @@
 				)
 			)
 		)
-		(property "Value" "R_4x0R_0201_array"
+		(property "Value" "EXB-18VR000X"
 			(at 299.72 137.16 0)
 			(effects
 				(font
@@ -27377,28 +27938,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18VR000X"
-			(at 299.72 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 299.72 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x0R_0201"
 			(at 278.13 126.365 0)
 			(effects
@@ -27427,6 +27966,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 273.05 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x0R_0201_array"
+			(at 273.05 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 273.05 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18VR000X"
+			(at 273.05 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27482,7 +28057,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_200R_0402"
+		(property "Value" "CR0402-FX-2000GLF"
 			(at 259.08 140.97 0)
 			(effects
 				(font
@@ -27521,28 +28096,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 269.24 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2000GLF"
-			(at 266.7 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -27585,6 +28138,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 246.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_200R_0402"
+			(at 246.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 246.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2000GLF"
+			(at 246.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27716,7 +28305,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 281.94 140.97 0)
 			(effects
 				(font
@@ -27755,28 +28344,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 292.1 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 289.56 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -27829,6 +28396,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 271.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 271.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 271.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 271.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27958,7 +28561,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 182.88 223.52 0)
 			(effects
 				(font
@@ -27997,28 +28600,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 172.72 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 175.26 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28064,6 +28645,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 195.58 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 195.58 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 195.58 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 195.58 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb062d06-8520-46c1-aead-7ae6b1087f2c")
 		)
@@ -28098,7 +28715,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 323.85 213.36 0)
 			(effects
 				(font
@@ -28137,28 +28754,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 313.69 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 316.23 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28214,6 +28809,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 334.01 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 334.01 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 334.01 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 334.01 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa912b87-a163-4173-af2d-db69eb4db72e")
 		)
@@ -28247,7 +28878,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 39.37 115.57 0)
 			(effects
 				(font
@@ -28286,28 +28917,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 49.53 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 46.99 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28364,6 +28973,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8c000a4-ec5d-4416-9a3e-63277a6a9129")
 		)
@@ -28396,7 +29041,7 @@
 				)
 			)
 		)
-		(property "Value" "NTS0102_XSON"
+		(property "Value" "NTS0102GT"
 			(at 378.46 217.17 0)
 			(effects
 				(font
@@ -28438,26 +29083,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NTS0102GT"
-			(at 353.06 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "NXP"
-			(at 378.46 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 378.46 227.33 0)
 			(effects
@@ -28477,6 +29102,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 342.9 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "NTS0102_XSON"
+			(at 342.9 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "NXP"
+			(at 342.9 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "NTS0102GT"
+			(at 342.9 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -28760,28 +29421,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 97.79 0)
 			(effects
@@ -28801,6 +29440,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -28835,7 +29492,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_200R_0402"
+		(property "Value" "CR0402-FX-2000GLF"
 			(at 336.55 140.97 0)
 			(effects
 				(font
@@ -28874,28 +29531,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 346.71 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2000GLF"
-			(at 344.17 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28938,6 +29573,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 323.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_200R_0402"
+			(at 323.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 323.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2000GLF"
+			(at 323.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29069,7 +29740,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_FFC_WE_68715014522"
+		(property "Value" "68715014522"
 			(at 306.07 40.64 0)
 			(effects
 				(font
@@ -29111,27 +29782,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "68715014522"
-			(at 295.91 99.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 306.07 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 306.07 53.34 0)
 			(effects
@@ -29151,6 +29801,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 287.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Conn_FFC_WE_68715014522"
+			(at 287.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 287.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "68715014522"
+			(at 287.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29617,7 +30303,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 86.36 223.52 0)
 			(effects
 				(font
@@ -29656,28 +30342,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 96.52 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 93.98 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -29730,6 +30394,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 76.2 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 76.2 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 76.2 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 76.2 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29808,28 +30508,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 108.585 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 108.585 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 107.95 95.25 0)
 			(effects
@@ -29849,6 +30527,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 97.79 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 97.79 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29882,7 +30578,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 245.11 199.39 0)
 			(effects
 				(font
@@ -29921,28 +30617,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 255.27 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 252.73 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -29988,6 +30662,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 232.41 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 232.41 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 232.41 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 232.41 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2068b0c-ae86-4295-9af8-a3fb82bb2cca")
 		)
@@ -30021,7 +30731,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 48.26 78.74 0)
 			(effects
 				(font
@@ -30060,28 +30770,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 58.42 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 55.88 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -30135,6 +30823,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 35.56 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 35.56 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 35.56 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 35.56 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30265,7 +30989,7 @@
 				)
 			)
 		)
-		(property "Value" "NTS0102_XSON"
+		(property "Value" "NTS0102GT"
 			(at 378.46 246.38 0)
 			(effects
 				(font
@@ -30307,26 +31031,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NTS0102GT"
-			(at 353.06 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "NXP"
-			(at 378.46 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 378.46 256.54 0)
 			(effects
@@ -30346,6 +31050,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 342.9 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "NTS0102_XSON"
+			(at 342.9 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "NXP"
+			(at 342.9 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "NTS0102GT"
+			(at 342.9 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30587,7 +31327,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4x2k2_0201_array"
+		(property "Value" "EXB-18V222JX"
 			(at 86.36 124.46 0)
 			(effects
 				(font
@@ -30629,28 +31369,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18V222JX"
-			(at 96.52 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 99.06 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x2k2_0201"
 			(at 88.9 147.32 90)
 			(effects
@@ -30680,6 +31398,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x2k2_0201_array"
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18V222JX"
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30920,7 +31674,7 @@
 				)
 			)
 		)
-		(property "Value" "R_4x0R_0201_array"
+		(property "Value" "EXB-18VR000X"
 			(at 184.15 59.69 0)
 			(effects
 				(font
@@ -30962,28 +31716,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18VR000X"
-			(at 184.15 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 184.15 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x0R_0201"
 			(at 162.56 56.515 0)
 			(effects
@@ -31012,6 +31744,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 157.48 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x0R_0201_array"
+			(at 157.48 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 157.48 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18VR000X"
+			(at 157.48 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -31159,7 +31927,7 @@
 				)
 			)
 		)
-		(property "Value" "R_4x0R_0201_array"
+		(property "Value" "EXB-18VR000X"
 			(at 377.19 137.16 0)
 			(effects
 				(font
@@ -31201,28 +31969,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EXB-18VR000X"
-			(at 377.19 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 377.19 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "4x0R_0201"
 			(at 355.6 126.365 0)
 			(effects
@@ -31251,6 +31997,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 350.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4x0R_0201_array"
+			(at 350.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 350.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "EXB-18VR000X"
+			(at 350.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

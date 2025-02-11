@@ -26766,7 +26766,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DF2S30FS_SOD"
+		(property "Value" "DF2S30FS"
 			(at 22.86 140.97 0)
 			(effects
 				(font
@@ -26808,27 +26808,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Toshiba"
-			(at 25.4 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "DF2S30FS"
-			(at 39.37 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 20.32 140.97 0)
 			(effects
@@ -26848,6 +26827,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "DF2S30FS_SOD"
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Toshiba"
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "DF2S30FS"
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26927,27 +26942,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 345.44 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ESD9X5.0ST5G"
-			(at 356.235 139.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 340.36 157.48 0)
 			(effects
@@ -26967,6 +26961,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 358.14 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "ESD9X5.0ST5G"
+			(at 358.14 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 358.14 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ESD9X5.0ST5G"
+			(at 358.14 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27190,7 +27220,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1n_16V_X7R_0402"
+		(property "Value" "C0402C102J4RACTU"
 			(at 275.59 260.35 0)
 			(effects
 				(font
@@ -27232,17 +27262,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C102J4RACTU"
-			(at 283.21 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Val" "1n"
 			(at 266.065 274.955 90)
 			(effects
@@ -27275,17 +27294,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "KEMET"
-			(at 290.83 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 293.37 260.35 0)
 			(effects
@@ -27305,6 +27313,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 265.43 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1n_16V_X7R_0402"
+			(at 265.43 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "KEMET"
+			(at 265.43 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C0402C102J4RACTU"
+			(at 265.43 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27341,7 +27385,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 166.37 29.21 0)
 			(effects
 				(font
@@ -27380,28 +27424,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 176.53 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 173.99 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -27444,6 +27466,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27573,7 +27631,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 121.92 151.13 0)
 			(effects
 				(font
@@ -27612,28 +27670,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 132.08 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 129.54 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -27676,6 +27712,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 109.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 109.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 109.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 109.22 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27754,27 +27826,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 373.38 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ESD9X5.0ST5G"
-			(at 387.35 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 368.3 93.98 0)
 			(effects
@@ -27794,6 +27845,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 386.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "ESD9X5.0ST5G"
+			(at 386.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 386.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ESD9X5.0ST5G"
+			(at 386.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27830,7 +27917,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 375.92 57.15 0)
 			(effects
 				(font
@@ -27869,28 +27956,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 386.08 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 383.54 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -27946,6 +28011,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fc0013f-a767-4bba-8f79-23ca0924886d")
 		)
@@ -27980,7 +28081,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_499k_0402"
+		(property "Value" "CR0402-FX-4993GLF"
 			(at 227.33 133.35 0)
 			(effects
 				(font
@@ -28019,28 +28120,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4993GLF"
-			(at 234.95 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 237.49 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28083,6 +28162,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 214.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_499k_0402"
+			(at 214.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 214.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4993GLF"
+			(at 214.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -28585,7 +28700,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_10u_25V_0603"
+		(property "Value" "C1608X5R1E106M080AC"
 			(at 328.93 16.51 0)
 			(effects
 				(font
@@ -28624,28 +28739,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 339.09 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1608X5R1E106M080AC"
-			(at 336.55 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28701,6 +28794,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 318.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_10u_25V_0603"
+			(at 318.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 318.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1608X5R1E106M080AC"
+			(at 318.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e77fa22-5314-46b2-be29-cd4d3ff3f2c5")
 		)
@@ -28735,7 +28864,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_499k_0402"
+		(property "Value" "CR0402-FX-4993GLF"
 			(at 236.22 133.35 0)
 			(effects
 				(font
@@ -28774,28 +28903,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4993GLF"
-			(at 243.84 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 246.38 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -28838,6 +28945,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 223.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_499k_0402"
+			(at 223.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 223.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4993GLF"
+			(at 223.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -28967,7 +29110,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 168.91 151.13 0)
 			(effects
 				(font
@@ -29006,28 +29149,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 179.07 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 176.53 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -29073,6 +29194,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4777e543-ed41-451b-9bec-af9a2415b707")
 		)
@@ -29107,7 +29264,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PJE138K"
+		(property "Value" "PJE138K_R1_00001"
 			(at 170.18 73.66 0)
 			(effects
 				(font
@@ -29149,27 +29306,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PJE138K_R1_00001"
-			(at 156.21 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "PANJIT"
-			(at 170.18 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 170.18 86.36 0)
 			(effects
@@ -29189,6 +29325,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "PJE138K"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "PANJIT"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PJE138K_R1_00001"
+			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29480,7 +29652,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP730BMT330_WSON"
+		(property "Value" "NCP730BMT330TBG"
 			(at 361.95 35.56 0)
 			(effects
 				(font
@@ -29522,26 +29694,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NCP730BMT330TBG"
-			(at 339.09 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 361.95 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 361.95 48.26 0)
 			(effects
@@ -29561,6 +29713,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 331.47 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "NCP730BMT330_WSON"
+			(at 331.47 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 331.47 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "NCP730BMT330TBG"
+			(at 331.47 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29612,7 +29800,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 323.85 128.27 0)
 			(effects
 				(font
@@ -29651,28 +29839,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 334.01 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 331.47 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -29728,6 +29894,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 313.69 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 313.69 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 313.69 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 313.69 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "099e91c7-977f-4f8c-8057-bcca525eaffe")
 		)
@@ -29761,7 +29963,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 134.62 12.7 0)
 			(effects
 				(font
@@ -29800,28 +30002,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 144.78 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 142.24 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -29877,6 +30057,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 124.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 124.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 124.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 124.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6061fd8-c3d1-4901-a44b-ffbaa4ac9491")
 		)
@@ -29910,7 +30126,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_KMR211NGLFS_SMD"
+		(property "Value" "KMR211NGLFS"
 			(at 35.56 59.69 0)
 			(effects
 				(font
@@ -29952,27 +30168,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "KMR211NGLFS"
-			(at 46.355 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "C&K"
-			(at 27.94 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 25.4 59.69 0)
 			(effects
@@ -29992,6 +30187,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 43.18 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SW_KMR211NGLFS_SMD"
+			(at 43.18 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "C&K"
+			(at 43.18 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "KMR211NGLFS"
+			(at 43.18 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30220,7 +30451,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 331.47 128.27 0)
 			(effects
 				(font
@@ -30259,28 +30490,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 341.63 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 339.09 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -30336,6 +30545,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 321.31 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 321.31 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 321.31 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 321.31 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a63e145c-be83-4f1a-8f2c-27b8421faefa")
 		)
@@ -30369,7 +30614,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
+		(property "Value" "LTST-C190GKT"
 			(at 163.83 154.94 0)
 			(effects
 				(font
@@ -30411,28 +30656,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LTST-C190GKT"
-			(at 171.45 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 173.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 176.53 154.94 0)
 			(effects
@@ -30462,6 +30685,42 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "DNP" ""
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LED_G_0603_LTST-C190GKT"
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Lite-On"
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "LTST-C190GKT"
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -30591,7 +30850,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_499k_0402"
+		(property "Value" "CR0402-FX-4993GLF"
 			(at 227.33 118.11 0)
 			(effects
 				(font
@@ -30630,28 +30889,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4993GLF"
-			(at 234.95 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 237.49 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -30694,6 +30931,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 214.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_499k_0402"
+			(at 214.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 214.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4993GLF"
+			(at 214.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30983,7 +31256,7 @@
 				)
 			)
 		)
-		(property "Value" "SSM3J332R"
+		(property "Value" "SSM3J332R,LF"
 			(at 66.04 111.76 0)
 			(effects
 				(font
@@ -31025,26 +31298,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SSM3J332R,LF"
-			(at 60.96 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Toshiba"
-			(at 76.2 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 78.74 111.76 0)
 			(effects
@@ -31064,6 +31317,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 63.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SSM3J332R"
+			(at 63.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Toshiba"
+			(at 63.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SSM3J332R,LF"
+			(at 63.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -31196,7 +31485,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_200k_0402"
+		(property "Value" "CR0402-FX-2003GLF"
 			(at 111.76 72.39 0)
 			(effects
 				(font
@@ -31235,28 +31524,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 111.76 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2003GLF"
-			(at 111.76 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -31302,6 +31569,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_200k_0402"
+			(at 91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2003GLF"
+			(at 91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f8e2f66-8c00-4997-99bd-1271b8cfec46")
 		)
@@ -31335,7 +31638,7 @@
 				)
 			)
 		)
-		(property "Value" "R_470k_0402"
+		(property "Value" "CR0402-FX-4703GLF"
 			(at 233.68 260.35 0)
 			(effects
 				(font
@@ -31374,28 +31677,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4703GLF"
-			(at 233.68 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 233.68 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -31440,6 +31721,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 254 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_470k_0402"
+			(at 254 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 254 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4703GLF"
+			(at 254 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a2fcf71-6975-49cf-8200-d9b814a63b24")
 		)
@@ -31473,7 +31790,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LVC2G14_SOT457"
+		(property "Value" "74LVC2G14GV,125"
 			(at 157.48 60.96 0)
 			(effects
 				(font
@@ -31515,27 +31832,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "74LVC2G14GV,125"
-			(at 114.3 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Nexperia"
-			(at 157.48 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 157.48 73.66 0)
 			(effects
@@ -31555,6 +31851,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "74LVC2G14_SOT457"
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Nexperia"
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "74LVC2G14GV,125"
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -31645,27 +31977,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RB521S30T1G"
-			(at 117.475 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 134.62 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 137.16 52.07 0)
 			(effects
@@ -31685,6 +31996,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "RB521S30T1G"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "RB521S30T1G"
+			(at 116.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -31722,7 +32069,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_45k3_0402"
+		(property "Value" "CR0402-FX-4532GLF"
 			(at 314.96 179.07 0)
 			(effects
 				(font
@@ -31761,28 +32108,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4532GLF"
-			(at 322.58 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 325.12 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -31828,6 +32153,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 302.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_45k3_0402"
+			(at 302.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 302.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4532GLF"
+			(at 302.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0a6aea57-ec53-4b5b-a81c-cfaa15174ead")
 		)
@@ -31861,7 +32222,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_1k_0402"
+		(property "Value" "CR0402-FX-1001GLF"
 			(at 99.06 13.97 0)
 			(effects
 				(font
@@ -31900,28 +32261,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 109.22 13.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1001GLF"
-			(at 106.68 13.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -31967,6 +32306,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 86.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_1k_0402"
+			(at 86.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 86.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1001GLF"
+			(at 86.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d91b05d-14c4-4ad9-bd4b-cbb5fad04973")
 		)
@@ -32000,7 +32375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 196.85 220.98 0)
 			(effects
 				(font
@@ -32039,28 +32414,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 186.69 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 189.23 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -32116,6 +32469,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 207.01 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 207.01 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 207.01 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 207.01 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de81e1e9-a8ed-4c1a-a05e-3e02a5c3bfe7")
 		)
@@ -32149,7 +32538,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 86.36 179.07 0)
 			(effects
 				(font
@@ -32188,28 +32577,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 96.52 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 93.98 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -32255,6 +32622,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 73.66 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 73.66 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 73.66 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 73.66 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7cab76cc-f1a3-4736-bf3d-ccc01137aec4")
 		)
@@ -32289,7 +32692,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 226.06 88.9 0)
 			(effects
 				(font
@@ -32328,28 +32731,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 226.06 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 226.06 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -32403,6 +32784,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 246.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 246.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 246.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 246.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -32784,7 +33201,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_499k_0402"
+		(property "Value" "CR0402-FX-4993GLF"
 			(at 227.33 176.53 0)
 			(effects
 				(font
@@ -32823,28 +33240,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4993GLF"
-			(at 234.95 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 237.49 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -32890,6 +33285,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 214.63 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_499k_0402"
+			(at 214.63 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 214.63 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4993GLF"
+			(at 214.63 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "48c2a318-e257-4b4a-b5c8-998d68a541b0")
 		)
@@ -32924,7 +33355,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PJE138K"
+		(property "Value" "PJE138K_R1_00001"
 			(at 391.16 161.29 0)
 			(effects
 				(font
@@ -32966,27 +33397,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PJE138K_R1_00001"
-			(at 377.19 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "PANJIT"
-			(at 391.16 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 391.16 173.99 0)
 			(effects
@@ -33006,6 +33416,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 368.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "PJE138K"
+			(at 368.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "PANJIT"
+			(at 368.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PJE138K_R1_00001"
+			(at 368.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33087,28 +33533,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 398.145 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 398.145 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 397.51 77.47 0)
 			(effects
@@ -33128,6 +33552,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 387.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 387.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33348,7 +33790,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1n_0402"
+		(property "Value" "GRM1555C1H102JA01D"
 			(at 275.59 227.33 0)
 			(effects
 				(font
@@ -33387,28 +33829,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM1555C1H102JA01D"
-			(at 283.21 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 285.75 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -33464,6 +33884,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 265.43 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1n_0402"
+			(at 265.43 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 265.43 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM1555C1H102JA01D"
+			(at 265.43 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "572a2519-5823-4ca2-bffc-17aa2cdc82ea")
 		)
@@ -33498,7 +33954,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_4u7_25V_0402"
+		(property "Value" "GRM155C61E475ME15J"
 			(at 252.73 191.77 0)
 			(effects
 				(font
@@ -33537,28 +33993,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155C61E475ME15J"
-			(at 260.35 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 262.89 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -33611,6 +34045,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 242.57 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_4u7_25V_0402"
+			(at 242.57 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 242.57 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155C61E475ME15J"
+			(at 242.57 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33689,27 +34159,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 347.98 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ESD9X5.0ST5G"
-			(at 361.95 205.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 342.9 223.52 0)
 			(effects
@@ -33729,6 +34178,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 360.68 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "ESD9X5.0ST5G"
+			(at 360.68 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 360.68 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ESD9X5.0ST5G"
+			(at 360.68 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33765,7 +34250,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_22.4A_0603"
+		(property "Value" "PMR03EZPJ000"
 			(at 134.62 140.335 0)
 			(effects
 				(font
@@ -33803,28 +34288,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ROHM Semiconductor"
-			(at 147.32 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PMR03EZPJ000"
-			(at 147.32 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -33879,6 +34342,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 132.08 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_22.4A_0603"
+			(at 132.08 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ROHM Semiconductor"
+			(at 132.08 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PMR03EZPJ000"
+			(at 132.08 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d15889b-9896-4df9-bec0-4d1514dca909")
 		)
@@ -33912,7 +34411,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 375.92 120.65 0)
 			(effects
 				(font
@@ -33951,28 +34450,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 386.08 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 383.54 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -34015,6 +34492,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -34516,7 +35029,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TPD1E0B04_XDFN-2"
+		(property "Value" "TPD1E0B04DPYR"
 			(at 254 40.64 0)
 			(effects
 				(font
@@ -34558,27 +35071,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 256.54 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TPD1E0B04DPYR"
-			(at 245.745 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 259.08 40.64 0)
 			(effects
@@ -34598,6 +35090,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 243.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TPD1E0B04_XDFN-2"
+			(at 243.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments"
+			(at 243.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "TPD1E0B04DPYR"
+			(at 243.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -35164,7 +35692,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 86.36 132.08 0)
 			(effects
 				(font
@@ -35203,28 +35731,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 96.52 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 93.98 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -35270,6 +35776,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 73.66 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 73.66 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 73.66 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 73.66 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "965d4a8d-a3c8-4fe4-aee9-6e55e9f63739")
 		)
@@ -35303,7 +35845,7 @@
 				)
 			)
 		)
-		(property "Value" "SSM3J332R"
+		(property "Value" "SSM3J332R,LF"
 			(at 66.04 158.75 0)
 			(effects
 				(font
@@ -35345,26 +35887,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SSM3J332R,LF"
-			(at 60.96 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Toshiba"
-			(at 76.2 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 78.74 158.75 0)
 			(effects
@@ -35384,6 +35906,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 63.5 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SSM3J332R"
+			(at 63.5 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Toshiba"
+			(at 63.5 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SSM3J332R,LF"
+			(at 63.5 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -35422,7 +35980,7 @@
 				)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 255.27 194.31 0)
 			(effects
 				(font
@@ -35461,28 +36019,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 255.27 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 255.27 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -35535,6 +36071,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 234.95 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 234.95 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 234.95 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 234.95 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -35664,7 +36236,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 210.82 62.23 0)
 			(effects
 				(font
@@ -35703,28 +36275,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 210.82 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 210.82 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -35781,6 +36331,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 190.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 190.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 190.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 190.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b7b8446-1b56-4d32-8207-520c84d8008a")
 		)
@@ -35815,7 +36401,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_10u_0402"
+		(property "Value" "CC0402MRX5R5BB106"
 			(at 365.76 16.51 0)
 			(effects
 				(font
@@ -35854,28 +36440,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CC0402MRX5R5BB106"
-			(at 373.38 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "YAGEO"
-			(at 375.92 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -35931,6 +36495,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 355.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_10u_0402"
+			(at 355.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "YAGEO"
+			(at 355.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CC0402MRX5R5BB106"
+			(at 355.6 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7bc661f8-67ff-45a1-9d81-0207070656d3")
 		)
@@ -35965,7 +36565,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_73k2_0402"
+		(property "Value" "CR0402-FX-7322GLF"
 			(at 314.96 120.65 0)
 			(effects
 				(font
@@ -36004,28 +36604,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-7322GLF"
-			(at 322.58 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 325.12 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -36068,6 +36646,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 302.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_73k2_0402"
+			(at 302.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 302.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-7322GLF"
+			(at 302.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -36197,7 +36811,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LVC1G175_SOT457"
+		(property "Value" "74LVC1G175GV,125"
 			(at 200.66 57.15 0)
 			(effects
 				(font
@@ -36239,27 +36853,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "74LVC1G175GV,125"
-			(at 179.07 45.085 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Nexperia"
-			(at 200.66 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 200.66 69.85 0)
 			(effects
@@ -36279,6 +36872,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 170.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "74LVC1G175_SOT457"
+			(at 170.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Nexperia"
+			(at 170.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "74LVC1G175GV,125"
+			(at 170.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -36327,7 +36956,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_22.4A_0603"
+		(property "Value" "PMR03EZPJ000"
 			(at 346.71 125.73 0)
 			(effects
 				(font
@@ -36365,28 +36994,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ROHM Semiconductor"
-			(at 359.41 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PMR03EZPJ000"
-			(at 359.41 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -36441,6 +37048,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 344.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_22.4A_0603"
+			(at 344.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ROHM Semiconductor"
+			(at 344.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PMR03EZPJ000"
+			(at 344.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3df36c9-579b-4138-998c-db796dee5615")
 		)
@@ -36475,7 +37118,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 314.96 186.69 0)
 			(effects
 				(font
@@ -36514,28 +37157,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 322.58 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 325.12 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -36581,6 +37202,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 302.26 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 302.26 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 302.26 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 302.26 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9e20fc9e-aec3-4881-a0d6-62d4deffca1e")
 		)
@@ -36614,7 +37271,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_22.4A_0603"
+		(property "Value" "PMR03EZPJ000"
 			(at 377.19 110.49 0)
 			(effects
 				(font
@@ -36652,28 +37309,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ROHM Semiconductor"
-			(at 389.89 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PMR03EZPJ000"
-			(at 389.89 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -36728,6 +37363,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 374.65 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_22.4A_0603"
+			(at 374.65 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ROHM Semiconductor"
+			(at 374.65 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PMR03EZPJ000"
+			(at 374.65 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "227659f6-7d61-4137-a6ff-26cfd053c8be")
 		)
@@ -36761,7 +37432,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0603"
+		(property "Value" "CR0603-J/-000ELF"
 			(at 393.7 83.82 0)
 			(effects
 				(font
@@ -36800,28 +37471,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 393.7 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0603-J/-000ELF"
-			(at 393.7 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -36878,6 +37527,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0603"
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0603-J/-000ELF"
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c08d5daa-6bde-4d44-8a8f-9d1d9ea1cc3e")
 		)
@@ -36911,7 +37596,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_200k_0402"
+		(property "Value" "CR0402-FX-2003GLF"
 			(at 129.54 52.07 0)
 			(effects
 				(font
@@ -36950,28 +37635,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 129.54 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2003GLF"
-			(at 129.54 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -37017,6 +37680,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_200k_0402"
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2003GLF"
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f263287e-6b2f-443f-ac5e-1fc847d6fe9d")
 		)
@@ -37050,7 +37749,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0402"
+		(property "Value" "ERJ2GE0R00X"
 			(at 347.98 86.36 0)
 			(effects
 				(font
@@ -37089,28 +37788,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 347.98 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 347.98 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -37164,6 +37841,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0402"
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic"
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ERJ2GE0R00X"
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37294,7 +38007,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_499k_0402"
+		(property "Value" "CR0402-FX-4993GLF"
 			(at 227.33 191.77 0)
 			(effects
 				(font
@@ -37333,28 +38046,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4993GLF"
-			(at 234.95 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 237.49 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -37400,6 +38091,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 214.63 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_499k_0402"
+			(at 214.63 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 214.63 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4993GLF"
+			(at 214.63 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a0207f9-2138-49cc-ab04-b647e6f589f1")
 		)
@@ -37434,7 +38161,7 @@
 				)
 			)
 		)
-		(property "Value" "L_1u_20A_Bourns-SRP6050CA"
+		(property "Value" "SRP6050CA-1R0M"
 			(at 307.34 137.16 0)
 			(effects
 				(font
@@ -37483,28 +38210,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 307.34 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SRP6050CA-1R0M"
-			(at 307.34 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ISat" "23 A"
@@ -37558,6 +38263,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 293.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "L_1u_20A_Bourns-SRP6050CA"
+			(at 293.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 293.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SRP6050CA-1R0M"
+			(at 293.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37635,26 +38376,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RB521S30T1G"
-			(at 92.71 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 72.39 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 72.39 53.34 0)
 			(effects
@@ -37674,6 +38395,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 95.25 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "RB521S30T1G"
+			(at 95.25 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 95.25 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "RB521S30T1G"
+			(at 95.25 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37710,7 +38467,7 @@
 				)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 267.97 119.38 0)
 			(effects
 				(font
@@ -37749,28 +38506,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 267.97 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 267.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -37822,6 +38557,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 288.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 288.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 288.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 288.29 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38017,7 +38788,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS7A0518P_SOT23-5"
+		(property "Value" "TPS7A0518PDBVT"
 			(at 365.76 74.93 0)
 			(effects
 				(font
@@ -38059,26 +38830,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TPS7A0518PDBVT"
-			(at 346.71 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 365.76 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 365.76 87.63 0)
 			(effects
@@ -38098,6 +38849,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 339.09 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TPS7A0518P_SOT23-5"
+			(at 339.09 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments"
+			(at 339.09 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "TPS7A0518PDBVT"
+			(at 339.09 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38516,7 +39303,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_4k7_0402"
+		(property "Value" "CR0402-FX-4701GLF"
 			(at 144.78 160.02 0)
 			(effects
 				(font
@@ -38555,28 +39342,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 154.94 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 152.4 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -38622,6 +39387,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 132.08 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_4k7_0402"
+			(at 132.08 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 132.08 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4701GLF"
+			(at 132.08 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37206756-b57b-4ed2-a8ac-5ea7610e9d16")
 		)
@@ -38656,7 +39457,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_25V_0805"
+		(property "Value" "CL21A226MAYNNNE"
 			(at 208.28 127 0)
 			(effects
 				(font
@@ -38695,28 +39496,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL21A226MAYNNNE"
-			(at 215.9 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 218.44 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -38781,6 +39560,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 198.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_25V_0805"
+			(at 198.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 198.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL21A226MAYNNNE"
+			(at 198.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd18f0b6-0908-4bf2-b5a2-03e8fd87d9bd")
 		)
@@ -38814,7 +39629,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 243.84 35.56 0)
 			(effects
 				(font
@@ -38853,28 +39668,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 254 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 251.46 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -38930,6 +39723,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 233.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 233.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 233.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 233.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e7caf46-b3ef-475c-940e-e6cd73f50c14")
 		)
@@ -38963,7 +39792,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_22.4A_0603"
+		(property "Value" "PMR03EZPJ000"
 			(at 60.96 208.28 0)
 			(effects
 				(font
@@ -39001,28 +39830,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ROHM Semiconductor"
-			(at 73.66 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PMR03EZPJ000"
-			(at 73.66 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -39074,6 +39881,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_22.4A_0603"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ROHM Semiconductor"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PMR03EZPJ000"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -39312,27 +40155,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 369.57 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ESD9X5.0ST5G"
-			(at 381 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 364.49 53.34 0)
 			(effects
@@ -39352,6 +40174,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 382.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "ESD9X5.0ST5G"
+			(at 382.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ON Semiconductor"
+			(at 382.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "ESD9X5.0ST5G"
+			(at 382.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -39389,7 +40247,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_25V_0805"
+		(property "Value" "CL21A226MAYNNNE"
 			(at 199.39 127 0)
 			(effects
 				(font
@@ -39428,28 +40286,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL21A226MAYNNNE"
-			(at 207.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 209.55 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -39514,6 +40350,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 189.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_25V_0805"
+			(at 189.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 189.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL21A226MAYNNNE"
+			(at 189.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1aa2e7ac-446e-4548-b2c6-a2c15996035c")
 		)
@@ -39548,7 +40420,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_10u_0402"
+		(property "Value" "CC0402MRX5R5BB106"
 			(at 116.84 46.99 0)
 			(effects
 				(font
@@ -39587,28 +40459,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CC0402MRX5R5BB106"
-			(at 124.46 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "YAGEO"
-			(at 127 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -39661,6 +40511,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 106.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_10u_0402"
+			(at 106.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "YAGEO"
+			(at 106.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CC0402MRX5R5BB106"
+			(at 106.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -39856,7 +40742,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_4u7_25V_0402"
+		(property "Value" "GRM155C61E475ME15J"
 			(at 252.73 133.35 0)
 			(effects
 				(font
@@ -39895,28 +40781,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155C61E475ME15J"
-			(at 260.35 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 262.89 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -39972,6 +40836,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 242.57 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_4u7_25V_0402"
+			(at 242.57 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 242.57 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155C61E475ME15J"
+			(at 242.57 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d4ce53ee-15c5-470e-8ec8-2c23945f9101")
 		)
@@ -40006,7 +40906,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_25V_0805"
+		(property "Value" "CL21A226MAYNNNE"
 			(at 199.39 185.42 0)
 			(effects
 				(font
@@ -40045,28 +40945,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL21A226MAYNNNE"
-			(at 207.01 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 209.55 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -40128,6 +41006,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 189.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_25V_0805"
+			(at 189.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 189.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL21A226MAYNNNE"
+			(at 189.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -40351,7 +41265,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 314.96 128.27 0)
 			(effects
 				(font
@@ -40390,28 +41304,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 322.58 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 325.12 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -40457,6 +41349,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 302.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 302.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 302.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 302.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "821fd277-be50-4aca-aedf-3e9a5af775c9")
 		)
@@ -40490,7 +41418,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 323.85 186.69 0)
 			(effects
 				(font
@@ -40529,28 +41457,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 334.01 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 331.47 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -40603,6 +41509,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 313.69 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 313.69 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 313.69 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 313.69 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -41146,28 +42088,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 394.335 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 394.335 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 393.7 36.83 0)
 			(effects
@@ -41187,6 +42107,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 383.54 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 383.54 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -41313,7 +42251,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 243.84 191.77 0)
 			(effects
 				(font
@@ -41352,28 +42290,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 254 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 251.46 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41426,6 +42342,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 233.68 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 233.68 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 233.68 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 233.68 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -41555,7 +42507,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 63.5 132.08 0)
 			(effects
 				(font
@@ -41594,28 +42546,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 73.66 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 71.12 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41661,6 +42591,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 50.8 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 50.8 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 50.8 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 50.8 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4d92940-7a02-4ae9-9f49-db2d9a8985e5")
 		)
@@ -41694,7 +42660,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1u_0402"
+		(property "Value" "C1005X6S1A105K050BC"
 			(at 243.84 133.35 0)
 			(effects
 				(font
@@ -41733,28 +42699,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TDK"
-			(at 254 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1005X6S1A105K050BC"
-			(at 251.46 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -41807,6 +42751,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 233.68 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_0402"
+			(at 233.68 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TDK"
+			(at 233.68 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "C1005X6S1A105K050BC"
+			(at 233.68 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42123,7 +43103,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 177.8 12.7 0)
 			(effects
 				(font
@@ -42162,28 +43142,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 187.96 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 185.42 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -42239,6 +43197,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 167.64 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e2c1e0f-9d74-4fc0-a3e9-8f0b706d272d")
 		)
@@ -42272,7 +43266,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT_PCM12SMTR"
+		(property "Value" "PCM12SMTR"
 			(at 73.66 54.61 0)
 			(effects
 				(font
@@ -42312,28 +43306,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "C&K"
-			(at 52.07 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PCM12SMTR"
-			(at 52.07 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 52.07 80.01 0)
 			(effects
@@ -42353,6 +43325,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SW_SPDT_PCM12SMTR"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "C&K"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PCM12SMTR"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42404,7 +43412,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 63.5 179.07 0)
 			(effects
 				(font
@@ -42443,28 +43451,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 73.66 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 71.12 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -42510,6 +43496,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b754d138-11ea-4e96-9e6c-648f8ee8947c")
 		)
@@ -42543,7 +43565,7 @@
 				)
 			)
 		)
-		(property "Value" "Molex_Nano-Fit_1x2_SMD_1054301202"
+		(property "Value" "105430-1202"
 			(at 2.54 125.73 0)
 			(effects
 				(font
@@ -42585,26 +43607,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Molex"
-			(at 2.54 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "105430-1202"
-			(at 24.765 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 2.54 135.89 0)
 			(effects
@@ -42624,6 +43626,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 29.21 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Molex_Nano-Fit_1x2_SMD_1054301202"
+			(at 29.21 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Molex"
+			(at 29.21 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "105430-1202"
+			(at 29.21 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42821,7 +43859,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 346.71 186.69 0)
 			(effects
 				(font
@@ -42860,28 +43898,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 356.87 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 354.33 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -42937,6 +43953,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 336.55 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 336.55 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 336.55 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 336.55 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3debf64f-a9f4-45a8-b7f5-e310cdef0e76")
 		)
@@ -42971,7 +44023,7 @@
 				)
 			)
 		)
-		(property "Value" "SSM3J332R"
+		(property "Value" "SSM3J332R,LF"
 			(at 372.11 128.27 0)
 			(effects
 				(font
@@ -43013,26 +44065,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SSM3J332R,LF"
-			(at 377.19 130.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Toshiba"
-			(at 361.95 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 359.41 128.27 0)
 			(effects
@@ -43052,6 +44084,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 374.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SSM3J332R"
+			(at 374.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Toshiba"
+			(at 374.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SSM3J332R,LF"
+			(at 374.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43251,7 +44319,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 196.85 162.56 0)
 			(effects
 				(font
@@ -43290,28 +44358,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 186.69 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 189.23 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -43364,6 +44410,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 207.01 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 207.01 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 207.01 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 207.01 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43494,7 +44576,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_200k_0402"
+		(property "Value" "CR0402-FX-2003GLF"
 			(at 236.22 35.56 0)
 			(effects
 				(font
@@ -43533,28 +44615,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 246.38 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2003GLF"
-			(at 243.84 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -43597,6 +44657,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 223.52 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_200k_0402"
+			(at 223.52 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 223.52 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2003GLF"
+			(at 223.52 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43675,28 +44771,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 179.705 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 179.705 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 179.07 173.99 0)
 			(effects
@@ -43716,6 +44790,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 168.91 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 168.91 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43842,7 +44934,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 339.09 186.69 0)
 			(effects
 				(font
@@ -43881,28 +44973,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 349.25 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 346.71 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -43958,6 +45028,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 328.93 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 328.93 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 328.93 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 328.93 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1daf2d29-5b71-4a2e-adaf-2a94556958b3")
 		)
@@ -43991,7 +45097,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 346.71 128.27 0)
 			(effects
 				(font
@@ -44030,28 +45136,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 356.87 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 354.33 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -44104,6 +45188,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 336.55 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 336.55 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 336.55 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 336.55 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -44275,27 +45395,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BCM857BS-7-F"
-			(at 53.975 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 46.99 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 46.99 121.92 0)
 			(effects
@@ -44315,6 +45414,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 69.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "BCM857BS-7-F"
+			(at 69.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 69.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "BCM857BS-7-F"
+			(at 69.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -44405,27 +45540,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BCM857BS-7-F"
-			(at 53.975 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer" "Diodes Incorporated"
-			(at 46.99 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 46.99 168.91 0)
 			(effects
@@ -44445,6 +45559,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 69.85 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "BCM857BS-7-F"
+			(at 69.85 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Diodes Incorporated"
+			(at 69.85 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "BCM857BS-7-F"
+			(at 69.85 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -44653,7 +45803,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 339.09 128.27 0)
 			(effects
 				(font
@@ -44692,28 +45842,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 349.25 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 346.71 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -44766,6 +45894,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 328.93 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 328.93 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 328.93 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 328.93 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -44938,28 +46102,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 276.86 26.035 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 271.78 26.035 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 274.32 26.67 0)
 			(effects
@@ -44979,6 +46121,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 265.43 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 265.43 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -45054,28 +46214,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 399.415 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 399.415 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 398.78 143.51 0)
 			(effects
@@ -45095,6 +46233,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 388.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 388.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -45221,7 +46377,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_1u_25V_0402"
+		(property "Value" "GRM155R61E105KE11J"
 			(at 129.54 151.13 0)
 			(effects
 				(font
@@ -45260,28 +46416,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 139.7 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61E105KE11J"
-			(at 137.16 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -45334,6 +46468,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_1u_25V_0402"
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61E105KE11J"
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -45413,26 +46583,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
-			(at 284.48 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SIC431AED-T1-GE3 "
-			(at 262.89 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 284.48 147.32 0)
 			(effects
@@ -45452,6 +46602,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SIC431AED-T1-GE3"
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Vishay"
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SIC431AED-T1-GE3 "
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -45661,7 +46847,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_2k7_0402"
+		(property "Value" "CR0402-FX-2701GLF"
 			(at 236.22 99.06 0)
 			(effects
 				(font
@@ -45700,28 +46886,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2701GLF"
-			(at 243.84 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 246.38 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -45764,6 +46928,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 223.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_2k7_0402"
+			(at 223.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 223.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2701GLF"
+			(at 223.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -45894,7 +47094,7 @@
 				)
 			)
 		)
-		(property "Value" "SSM3J332R"
+		(property "Value" "SSM3J332R,LF"
 			(at 129.54 158.75 0)
 			(effects
 				(font
@@ -45936,26 +47136,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SSM3J332R,LF"
-			(at 134.62 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Toshiba"
-			(at 119.38 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 116.84 158.75 0)
 			(effects
@@ -45975,6 +47155,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 132.08 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SSM3J332R"
+			(at 132.08 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Toshiba"
+			(at 132.08 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SSM3J332R,LF"
+			(at 132.08 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -46015,7 +47231,7 @@
 				)
 			)
 		)
-		(property "Value" "L_560n_17.7A_Bourns-SRP5030CA"
+		(property "Value" "SRP5030CA-R56M"
 			(at 307.34 195.58 0)
 			(effects
 				(font
@@ -46064,28 +47280,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 307.34 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SRP5030CA-R56M"
-			(at 307.34 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ISat" "22.2 A"
@@ -46139,6 +47333,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 293.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "L_560n_17.7A_Bourns-SRP5030CA"
+			(at 293.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 293.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SRP5030CA-R56M"
+			(at 293.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -46269,7 +47499,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_499k_0402"
+		(property "Value" "CR0402-FX-4993GLF"
 			(at 236.22 191.77 0)
 			(effects
 				(font
@@ -46308,28 +47538,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-4993GLF"
-			(at 243.84 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 246.38 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -46375,6 +47583,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 223.52 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_499k_0402"
+			(at 223.52 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 223.52 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4993GLF"
+			(at 223.52 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "897bb67e-52b3-4c10-9aa9-2196edc9f9d2")
 		)
@@ -46408,7 +47652,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_10k_0402"
+		(property "Value" "CR0402-FX-1002GLF"
 			(at 218.44 220.98 0)
 			(effects
 				(font
@@ -46447,28 +47691,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 228.6 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 226.06 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -46511,6 +47733,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 205.74 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_10k_0402"
+			(at 205.74 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 205.74 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1002GLF"
+			(at 205.74 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -46613,7 +47871,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_25V_0805"
+		(property "Value" "CL21A226MAYNNNE"
 			(at 208.28 185.42 0)
 			(effects
 				(font
@@ -46652,28 +47910,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL21A226MAYNNNE"
-			(at 215.9 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 218.44 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -46738,6 +47974,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_25V_0805"
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL21A226MAYNNNE"
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bedbe0e5-b637-407d-b940-0a73d012cbb5")
 		)
@@ -46771,7 +48043,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "R_200R_0402"
+		(property "Value" "CR0402-FX-2000GLF"
 			(at 90.17 66.04 0)
 			(effects
 				(font
@@ -46810,28 +48082,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 90.17 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2000GLF"
-			(at 90.17 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -46877,6 +48127,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 110.49 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_200R_0402"
+			(at 110.49 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 110.49 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2000GLF"
+			(at 110.49 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "842aaea2-291c-4f9c-8c7b-8fffb9eb2280")
 		)
@@ -46910,7 +48196,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_22.4A_0603"
+		(property "Value" "PMR03EZPJ000"
 			(at 60.96 200.66 0)
 			(effects
 				(font
@@ -46948,28 +48234,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ROHM Semiconductor"
-			(at 73.66 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PMR03EZPJ000"
-			(at 73.66 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -47021,6 +48285,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 58.42 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_22.4A_0603"
+			(at 58.42 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ROHM Semiconductor"
+			(at 58.42 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PMR03EZPJ000"
+			(at 58.42 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -47379,28 +48679,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 184.15 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 179.07 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 181.61 170.18 0)
 			(effects
@@ -47420,6 +48698,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 172.72 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 172.72 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -47453,7 +48749,7 @@
 				)
 			)
 		)
-		(property "Value" "R_470k_0402"
+		(property "Value" "CR0402-FX-4703GLF"
 			(at 233.68 232.41 0)
 			(effects
 				(font
@@ -47495,28 +48791,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CR0402-FX-4703GLF"
-			(at 233.68 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 233.68 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 233.68 219.71 0)
 			(effects
@@ -47555,6 +48829,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_470k_0402"
+			(at 254 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 254 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 254 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-4703GLF"
+			(at 254 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -47777,7 +49087,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_22u_16V_0603"
+		(property "Value" "CL10A226MO7JZNC"
 			(at 331.47 186.69 0)
 			(effects
 				(font
@@ -47816,28 +49126,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 341.63 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL10A226MO7JZNC"
-			(at 339.09 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -47893,6 +49181,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 321.31 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_22u_16V_0603"
+			(at 321.31 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 321.31 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CL10A226MO7JZNC"
+			(at 321.31 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "087b7420-9ecd-41fc-a87a-4f8166f2d5c9")
 		)
@@ -47928,7 +49252,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_20k_0402"
+		(property "Value" "CR0402-FX-2002GLF"
 			(at 236.22 91.44 0)
 			(effects
 				(font
@@ -47967,28 +49291,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2002GLF"
-			(at 243.84 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 246.38 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -48034,6 +49336,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 223.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_20k_0402"
+			(at 223.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 223.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-2002GLF"
+			(at 223.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba8ad99c-2265-49af-bd30-d79c0602e2cb")
 		)
@@ -48067,7 +49405,7 @@
 				)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 267.97 177.8 0)
 			(effects
 				(font
@@ -48106,28 +49444,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 267.97 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 267.97 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -48182,6 +49498,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 288.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 288.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 288.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 288.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5981d15-0ce5-4cf3-b52c-6b251c3bb2ae")
 		)
@@ -48215,7 +49567,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 223.52 134.62 0)
 			(effects
 				(font
@@ -48254,28 +49606,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 213.36 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 215.9 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -48328,6 +49658,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 233.68 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 233.68 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 233.68 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 233.68 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -48406,26 +49772,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
-			(at 284.48 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SIC431AED-T1-GE3 "
-			(at 262.89 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 284.48 205.74 0)
 			(effects
@@ -48445,6 +49791,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SIC431AED-T1-GE3"
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Vishay"
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "SIC431AED-T1-GE3 "
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -48652,7 +50034,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_100k_0402"
+		(property "Value" "CR0402-FX-1003GLF"
 			(at 48.26 59.69 0)
 			(effects
 				(font
@@ -48691,28 +50073,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 58.42 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-1003GLF"
-			(at 55.88 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -48758,6 +50118,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_100k_0402"
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0402-FX-1003GLF"
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3fa0b83-92fb-4c78-bb46-e17d9ee13a5f")
 		)
@@ -48791,7 +50187,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R_0R_0603"
+		(property "Value" "CR0603-J/-000ELF"
 			(at 386.08 43.18 0)
 			(effects
 				(font
@@ -48830,28 +50226,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 386.08 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0603-J/-000ELF"
-			(at 386.08 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -48905,6 +50279,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 365.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_0603"
+			(at 365.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Bourns"
+			(at 365.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CR0603-J/-000ELF"
+			(at 365.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -49420,28 +50830,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 377.825 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 377.825 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 377.19 201.93 0)
 			(effects
@@ -49461,6 +50849,24 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 367.03 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TP_0.75mm_SMD"
+			(at 367.03 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -49587,7 +50993,7 @@
 				)
 			)
 		)
-		(property "Value" "LM73100"
+		(property "Value" "LM73100RPWR"
 			(at 253.238 273.812 0)
 			(effects
 				(font
@@ -49629,26 +51035,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " LM73100RPWR "
-			(at 228.6 260.985 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Texas Instruments "
-			(at 253.238 281.432 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 253.238 283.972 0)
 			(effects
@@ -49668,6 +51054,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 217.17 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LM73100"
+			(at 217.17 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments "
+			(at 217.17 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" " LM73100RPWR "
+			(at 217.17 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -49729,7 +51151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PJE138K"
+		(property "Value" "PJE138K_R1_00001"
 			(at 281.94 58.42 0)
 			(effects
 				(font
@@ -49771,27 +51193,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PJE138K_R1_00001"
-			(at 267.97 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "PANJIT"
-			(at 281.94 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 281.94 71.12 0)
 			(effects
@@ -49811,6 +51212,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "PJE138K"
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "PANJIT"
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PJE138K_R1_00001"
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -49943,7 +51380,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_KMR211NGLFS_SMD"
+		(property "Value" "KMR211NGLFS"
 			(at 236.22 57.15 0)
 			(effects
 				(font
@@ -49985,27 +51422,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "KMR211NGLFS"
-			(at 247.015 38.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "C&K"
-			(at 228.6 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 226.06 57.15 0)
 			(effects
@@ -50025,6 +51441,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "SW_KMR211NGLFS_SMD"
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "C&K"
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "KMR211NGLFS"
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -50066,7 +51518,7 @@
 				)
 			)
 		)
-		(property "Value" "R_0R_22.4A_0603"
+		(property "Value" "PMR03EZPJ000"
 			(at 346.71 184.15 0)
 			(effects
 				(font
@@ -50104,28 +51556,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ROHM Semiconductor"
-			(at 359.41 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PMR03EZPJ000"
-			(at 359.41 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -50176,6 +51606,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 344.17 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "R_0R_22.4A_0603"
+			(at 344.17 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ROHM Semiconductor"
+			(at 344.17 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PMR03EZPJ000"
+			(at 344.17 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -50305,7 +51771,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DF2S30FS_SOD"
+		(property "Value" "DF2S30FS"
 			(at 151.13 189.23 0)
 			(effects
 				(font
@@ -50347,27 +51813,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Toshiba"
-			(at 153.67 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "DF2S30FS"
-			(at 167.64 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 148.59 189.23 0)
 			(effects
@@ -50387,6 +51832,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 166.37 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "DF2S30FS_SOD"
+			(at 166.37 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Toshiba"
+			(at 166.37 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "DF2S30FS"
+			(at 166.37 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -50423,7 +51904,7 @@
 				)
 			)
 		)
-		(property "Value" "LM73100"
+		(property "Value" "LM73100RPWR"
 			(at 253.238 245.872 0)
 			(effects
 				(font
@@ -50465,26 +51946,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " LM73100RPWR "
-			(at 228.6 233.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Texas Instruments "
-			(at 253.238 253.492 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 253.238 256.032 0)
 			(effects
@@ -50504,6 +51965,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 217.17 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "LM73100"
+			(at 217.17 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments "
+			(at 217.17 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" " LM73100RPWR "
+			(at 217.17 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -50750,7 +52247,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_100n_0402"
+		(property "Value" "GRM155R61H104KE14D"
 			(at 156.21 151.13 0)
 			(effects
 				(font
@@ -50789,28 +52286,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 166.37 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 163.83 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -50863,6 +52338,42 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 146.05 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_100n_0402"
+			(at 146.05 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Murata"
+			(at 146.05 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "GRM155R61H104KE14D"
+			(at 146.05 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -50994,7 +52505,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_10u_0402"
+		(property "Value" "CC0402MRX5R5BB106"
 			(at 71.12 59.69 0)
 			(effects
 				(font
@@ -51033,28 +52544,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CC0402MRX5R5BB106"
-			(at 78.74 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "YAGEO"
-			(at 81.28 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -51110,6 +52599,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_10u_0402"
+			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "YAGEO"
+			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CC0402MRX5R5BB106"
+			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac05ff80-a687-41a4-b79c-cfe06c82d80b")
 		)
@@ -51144,7 +52669,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_10u_0402"
+		(property "Value" "CC0402MRX5R5BB106"
 			(at 289.56 92.71 0)
 			(effects
 				(font
@@ -51183,28 +52708,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CC0402MRX5R5BB106"
-			(at 281.94 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "YAGEO"
-			(at 279.4 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -51260,6 +52763,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" ""
+			(at 299.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "C_10u_0402"
+			(at 299.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "YAGEO"
+			(at 299.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "CC0402MRX5R5BB106"
+			(at 299.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21cdd776-eb7a-4c5c-b28a-666ee3a61193")
 		)
@@ -51294,7 +52833,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PJE138K"
+		(property "Value" "PJE138K_R1_00001"
 			(at 59.69 80.01 0)
 			(effects
 				(font
@@ -51336,27 +52875,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PJE138K_R1_00001"
-			(at 20.32 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "PANJIT"
-			(at 59.69 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 59.69 92.71 0)
 			(effects
@@ -51376,6 +52894,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 36.83 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "PJE138K"
+			(at 36.83 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "PANJIT"
+			(at 36.83 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "PJE138K_R1_00001"
+			(at 36.83 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -51508,7 +53062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TPD1E0B04_XDFN-2"
+		(property "Value" "TPD1E0B04DPYR"
 			(at 46.99 26.67 0)
 			(effects
 				(font
@@ -51550,27 +53104,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 49.53 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TPD1E0B04DPYR"
-			(at 34.925 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 52.07 26.67 0)
 			(effects
@@ -51590,6 +53123,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 36.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "TPD1E0B04_XDFN-2"
+			(at 36.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments"
+			(at 36.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "TPD1E0B04DPYR"
+			(at 36.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

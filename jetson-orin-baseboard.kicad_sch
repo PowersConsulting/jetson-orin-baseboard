@@ -25755,7 +25755,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+		(property "Value" "9774065151R"
 			(at 383.54 226.06 0)
 			(effects
 				(font
@@ -25797,27 +25797,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 383.54 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "9774065151R"
-			(at 377.19 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 383.54 236.22 0)
 			(effects
@@ -25837,6 +25816,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 368.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+			(at 368.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 368.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "9774065151R"
+			(at 368.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25872,7 +25887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+		(property "Value" "9774065151R"
 			(at 383.54 238.76 0)
 			(effects
 				(font
@@ -25914,27 +25929,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 383.54 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "9774065151R"
-			(at 377.19 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 383.54 248.92 0)
 			(effects
@@ -25954,6 +25948,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 368.3 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+			(at 368.3 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 368.3 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "9774065151R"
+			(at 368.3 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25989,7 +26019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+		(property "Value" "9774065151R"
 			(at 383.54 232.41 0)
 			(effects
 				(font
@@ -26031,27 +26061,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 383.54 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "9774065151R"
-			(at 377.19 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 383.54 242.57 0)
 			(effects
@@ -26071,6 +26080,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 368.3 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+			(at 368.3 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 368.3 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "9774065151R"
+			(at 368.3 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26106,7 +26151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+		(property "Value" "9774065151R"
 			(at 383.54 245.11 0)
 			(effects
 				(font
@@ -26148,27 +26193,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 383.54 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "9774065151R"
-			(at 377.19 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
 		(property "Author" "Antmicro"
 			(at 383.54 255.27 0)
 			(effects
@@ -26188,6 +26212,42 @@
 					(thickness 0.15)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 368.3 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OldValue" "Spacer_Drill3.7mm_H6.5mm_9774065151R"
+			(at 368.3 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 368.3 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number 1" "9774065151R"
+			(at 368.3 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
