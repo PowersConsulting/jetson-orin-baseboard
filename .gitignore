@@ -38,3 +38,4 @@ build
 *.SchDocPreview
 /Imported jetson-orin-baseboard/Project Logs for jetson-orin-baseboard
 /Imported jetson-orin-baseboard/__Previews
+*.SchDocPreview
