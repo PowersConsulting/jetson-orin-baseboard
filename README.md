@@ -1,5 +1,23 @@
 # Jetson Orin Baseboard
 
+
+##Powers Consulting Changes
+Adapted from AntMicro. Initial import to Altium in case that's useful for anyone.
+Changes licensed as parent, no warranty or guarantees.
+
+Changes from parent:
+--Automated import to Altium.
+--Some field changes to assist Altium BoM tool recognition.
+--Creation of libraries extracted from schematic and board.
+--Fixing up of some crucial 3D models
+--Create BomDoc, fill in Manufacturer Links
+
+##TODO
+--Finish updating libraries.
+--Re-route board as Altium import doesn't seem to handle this for KiCAD8(?).
+
+
+##ANTMICRO README
 Copyright (c) 2022-2025 [Antmicro](https://www.antmicro.com)
 
 [![image](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Hardware%20Portal-332d37?style=flat-square)](https://openhardware.antmicro.com/boards/jetson-orin-baseboard)
